@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EpamLayouts</string>
+
+    <string name="fragment1Button">FRAGMENT 1</string>
+    <string name="fragment2Button">FRAGMENT 2</string>
+    
+    <string name="depart">DEPART</string>
+    <string name="returnStr">RETURN</string>
+    <string name="freeSeats">Free seats: %1$s</string>
+    <string name="currencyBY">%1$s BYN</string>
+</resources>
