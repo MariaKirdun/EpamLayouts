@@ -8,6 +8,13 @@ import android.view.ViewGroup
 import android.widget.Toast
 import kotlinx.android.synthetic.main.fragment2.view.*
 
+/**
+ * [Fragment] built by using Linear Layouts.
+ *
+ * @author Maria Kirdun
+ *
+ */
+
 class NonConstraintFragment() :Fragment(){
 
         override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

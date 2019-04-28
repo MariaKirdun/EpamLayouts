@@ -7,6 +7,8 @@ import android.widget.Button
 
 /**
  *
+ * Activity with [Fragment] and two [Button]s. [Button] fragment1 show [ConstraintFragment], and [Button] fragment2 show [NonConstraintFragment].
+ *
  * @author Maria Kirdun
  */
 

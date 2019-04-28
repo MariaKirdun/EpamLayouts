@@ -8,6 +8,12 @@ import android.view.ViewGroup
 import android.widget.Toast
 import kotlinx.android.synthetic.main.fragment1.view.*
 
+/**
+ * [Fragment] built by using Constraint Layout
+ *
+ * @author Maria Kirdun
+ */
+
 class ConstraintFragment : Fragment(){
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
